@@ -4,7 +4,7 @@
 //
 //  Created by Bailey Gundling on 4/9/20.
 //  Copyright © 2020 Bailey Gundling. All rights reserved.
-//
+//  Changed "Bigger Penis" to "Large Black Man"
 
 import SwiftUI
 
@@ -18,7 +18,7 @@ struct ContentView: View {
                 .tabItem {
                     VStack {
                         Image("first")
-                        Text("bigger penis")
+                        Text("LARGE BLACK MAN")
                         
                     }
                 }
