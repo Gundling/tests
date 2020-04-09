@@ -18,7 +18,7 @@ struct ContentView: View {
                 .tabItem {
                     VStack {
                         Image("first")
-                        Text("penis")
+                        Text("bigger penis")
                         
                     }
                 }
