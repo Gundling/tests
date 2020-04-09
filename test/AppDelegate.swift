@@ -7,6 +7,10 @@
 //  New comment made by Nick at 4:48 PM
 //  Newer comment at 4:49 PM
 //  New change at 4:57 PM
+//  Changes I made that are super important
+//  These changes should not be erased because I worked on them for a while
+//  THey should go into the stashed changes and I should be able to upload them
+
 
 import UIKit
 
